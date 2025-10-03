@@ -4,6 +4,9 @@
 
 This repository contains the code and models for our innovative framework that leverages multi-granularity text information (coarse-grained label text and fine-grained description text) to enhance visual feature learning for Weakly Supervised Video Anomaly Detection (WSVAD).
 
+[[Paper Link]](https://doi.org/10.1109/CVIDL65390.2025.11085428)
+
+
 ## 📖 Overview
 Weakly Supervised Video Anomaly Detection (WSVAD) aims to identify anomalous events in videos using only video-level labels, significantly reducing annotation costs. However, most existing methods rely solely on visual information, neglecting the rich semantic context available in textual descriptions.
 
