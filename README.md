@@ -1,7 +1,6 @@
 # Multi-Granularity-Text-Enhanced-Framework-for-Weakly-Supervised-Video-Anomaly-detection
-Our paper has been accepted by CVIDL 2025! This is the official project website of our work: Multi-Granularity Text Enhanced Framework for  Weakly Supervised Video Anomaly detection.
 
-🎉 ​​Official PyTorch Implementation​​ of our CVIDL 2025 Best Paper Award winner: "Multi-Granularity Text Enhanced Framework for Weakly Supervised Video Anomaly Detection via Cross-Modal Context Alignment".
+🎉 ​​Official PyTorch website​​ of our CVIDL 2025 Best Paper Award winner: "Multi-Granularity Text Enhanced Framework for Weakly Supervised Video Anomaly Detection via Cross-Modal Context Alignment".
 
 This repository contains the code and models for our innovative framework that leverages multi-granularity text information (coarse-grained label text and fine-grained description text) to enhance visual feature learning for Weakly Supervised Video Anomaly Detection (WSVAD).
 
